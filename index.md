@@ -37,7 +37,7 @@ Emily Hou
 +++
 
 * **Office Hours**: TBA
-* **Pronouns**: He/Him
+* **Pronouns**: She/Her
 * [ejhou@berkeley.edu](mailto:ejhou@berkeley.edu)
 
 :::

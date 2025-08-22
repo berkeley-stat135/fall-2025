@@ -25,8 +25,22 @@ Adam Lucas
 +++
 
 * **Office Hours**: M 11-2pm Student Learning Center first floor atrium
-* **Pronouns**: She/Her
+* **Pronouns**: He/Him
 * [alucas@berkeley.edu](mailto:alucas@berkeley.edu)
 :::
+
+:::{card}
+:header: **GSI Name**
+
+Emily Hou
+
++++
+
+* **Office Hours**: TBA
+* **Pronouns**: He/Him
+* [ejhou@berkeley.edu](mailto:ejhou@berkeley.edu)
+
+:::
+
 
 
